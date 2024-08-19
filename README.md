@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=⛵️🍔🤍&fontAlign=70)
 # 👋 It's me Hi, I'm Serin!
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/5ef96fa2-77ec-46fd-9e8c-6c91132b7782">
-
 ## 🚀 Junior Backend Developer | Java/Kotlin | Spring
 
 I craft efficient and maintainable backend solutions with a passion for clean code and continuous improvement.
